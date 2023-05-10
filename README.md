@@ -1,4 +1,4 @@
-# complete-dataset-research
+# описание датасета
 Shop Customer Data is a detailed analysis of a imaginative shop's ideal customers. It helps a business to better understand its customers. The owner of a shop gets information about Customers through membership cards.
 Dataset consists of 2000 records and 8 columns:
 - Customer ID
